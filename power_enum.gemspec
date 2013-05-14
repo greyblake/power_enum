@@ -38,7 +38,6 @@ Gem::Specification.new do |s|
   s.homepage = "http://github.com/albertosaurus/power_enum"
   s.require_paths = ["lib"]
   s.rubygems_version = "2.0.3"
-  s.signing_key = "gem-private_key.pem"
   s.summary = "Allows you to treat instances of your ActiveRecord models as though they were an enumeration of values"
 
   if s.respond_to? :specification_version then
